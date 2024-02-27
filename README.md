@@ -217,8 +217,7 @@ print(agent.performance)
 ```
 
 ## Output:
-![Screenshot 2024-02-25 203647](https://github.com/Dhanudhanaraj/19AI405ExpNo1/assets/119218812/72e7d5c5-1363-4852-914a-3da69ca92a15)
-
+![307604306-72e7d5c5-1363-4852-914a-3da69ca92a15](https://github.com/SASIRAJ27/19AI405ExpNo1/assets/113497176/e6e6a59a-a34e-457b-b004-27f12af579c0)
 
 ## Result:
 
